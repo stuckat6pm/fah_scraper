@@ -1,2 +1,2 @@
 # fah_scrapper
-Scrapper
+Demo scrapper for folding@home team stats webpages
