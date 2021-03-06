@@ -1,5 +1,9 @@
 # fah_scraper
+
 Demo scraper for folding@home team stats webpages
+
+Uses Python 3
+Requirements: [Requests](https://pypi.org/project/requests/) and [lxml](https://lxml.de/)
 
 ## fah_scraper.py
 Pulls data from banano folding at home team - https://apps.foldingathome.org/teamstats/team234980
