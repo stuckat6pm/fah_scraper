@@ -7,7 +7,8 @@ Pulls data from banano folding at home team - https://apps.foldingathome.org/tea
 Generates a csv containing rows of f@h username, points, and WUs into a folder called `logs` that is created in the directory the script is run from.
 
 **Output style:**
-```ID,Credit,WUs
+```
+ID,Credit,WUs
 vmiarc39yres,6055872957,43042
 6m5khs4cnqq2,2499144190,22473
 tkmrq8rmmql0,1750049359,8492
@@ -22,10 +23,11 @@ Generates a csv containing rows of f@h username, points, and WUs into a folder c
 Output only includes non-zero rows.
 
 **Output style:**
-```ID,Credit,WUs
-vmiarc39yres,6055872957,43042
-6m5khs4cnqq2,2499144190,22473
-tkmrq8rmmql0,1750049359,8492
-rv8fxr56dolc,1275514561,11510
-tfgjdryn2a11,1251863199,10595
+```
+ID,Credit,WUs
+vmiarc39yres,301353,2
+6m5khs4cnqq2,417380,3
+tkmrq8rmmql0,332595,2
+tfgjdryn2a11,140029,1
+qw9uvm7z0kns,12940,1
 
